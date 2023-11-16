@@ -39,11 +39,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-5865F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vivekkhule)
 
 
-## ‍🎃 Coding Profile:
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](AddYourLeetCodeLinkHere)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](AddYourHackerRankLinkHere)
-
 ## ♨ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
