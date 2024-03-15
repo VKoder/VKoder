@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<img src="https://imgs.search.brave.com/DeTsWnfYH7PzLlOLrXSwOEQx_8yKoGTFnzfrrQkDjFg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzE4LzYwLzYy/LzM2MF9GXzMxODYw/NjIxN19IazhqbzJN/Vm9JMzNTUU9rWXJm/T0Y5MjlKN0pnSVAw/UC5qcGc" alt="Front End Developer Banner" />
+
 
 🔭 I’m currently learning React js and advance Javascript to create impactful web experiences.
 
