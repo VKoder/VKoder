@@ -12,19 +12,6 @@
 
 
 
-🔭 I’m currently learning React js and advance Javascript to create impactful web experiences.
-
-🌱 Exploring and staying ahead in the fast-paced world of frontend development.
-
-💼 Looking to collaborate on **Open source Projects** that drive positive change and innovation in the industry.
-
-💻 Explore my projects and their live demos at **[My Portfolio](AddYourPortfolioLinkHere)**.
-
-🌐 Learn more about my professional journey and contributions on **[BioDrop](https://www.linkedin.com/in/vivek-khule-237682250/)**.
-
-💬 Excited to discuss anything related to **Frontend Development** and **UI/UX Design**. Feel free to reach out!
-
-
 ## 🔰 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-khule-237682250/)
